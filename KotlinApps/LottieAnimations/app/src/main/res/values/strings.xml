@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LottieAnimations</string>
+    <string name="next_animation">Next Animation</string>
+    <string name="loading_text">Loading</string>
+    <string name="turn_on_location">Turn On Location</string>
+    <string name="go_to_home">Go To Home</string>
+</resources>
